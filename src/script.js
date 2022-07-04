@@ -4,7 +4,6 @@ window.onload = () => {
 
   let actors = [
     new Pacman(200, 200, 'yellow'),
-    new Pacman(200, 400, 'pink', 200),
     new FPSViewer(0, 60),
   ];
 
